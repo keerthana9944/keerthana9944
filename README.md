@@ -1,9 +1,12 @@
-# Hi 👋 This is GitHub automation
+# 👋 Hi, I'm {{Naveenpanaganti}}
 
-- 👤 Username: Naveenpanaganti
-- ⭐ Public Repos: loading...
-- 👥 Followers: loading...
-- ⏱ Last updated: never
+- 📦 Public repositories: {{REPOS}}
+- ⭐ Total stars: {{STARS}}
+- 👥 Followers: {{FOLLOWERS}}
+- 🕒 Last updated: {{UPDATED}}
+
+---
+_This profile updates automatically using GitHub Actions_
 
 <!--
 **Naveenpanaganti/Naveenpanaganti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
