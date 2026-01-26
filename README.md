@@ -1,6 +1,6 @@
 # Hi 👋 This is GitHub automation
 
-- 👤 Username: YOUR_USERNAME
+- 👤 Username: Naveenpanaganti
 - ⭐ Public Repos: loading...
 - 👥 Followers: loading...
 - ⏱ Last updated: never
