@@ -1,12 +1,15 @@
 name: Update Profile README
 
+permissions:
+  contents: write
+
 on:
   workflow_dispatch:
   schedule:
     - cron: "0 0 * * *"
 
 jobs:
-  build:
+  update:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
