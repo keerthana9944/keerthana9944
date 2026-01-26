@@ -15,7 +15,7 @@
 
 ## 📊 GitHub Stats
  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Naveenpanaganti&show_icons=true&theme=tokyonight)
- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Naveenpanaganti&theme=tokyonight)
+ <!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Naveenpanaganti&theme=tokyonight)(SHOULD WORK ON THIS)  -->
  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Naveenpanaganti&layout=compact&theme=tokyonight)
 
 
