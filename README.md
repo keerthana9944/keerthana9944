@@ -5,6 +5,11 @@
 - 👥 Followers: 0
 - 🕒 Last updated: Mon, 26 Jan 2026 19:07:50 GMT
 
+## 🧠 Top Languages
+
+{{TOP_LANGUAGES}}
+
+
 ---
 _This profile updates automatically using GitHub Actions_
 
