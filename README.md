@@ -1,26 +1,39 @@
-# 👋 Hi, I'm Naveenpanaganti
+<h1 align="center">Hi 👋, I'm Naveen Panaganti</h1>
+<h3 align="center">Aspiring Software Developer </h3>
 
-- 📦 Public repositories: 6
-- ⭐ Total stars: 0
-- 👥 Followers: 0
-- 🕒 Last updated: Mon, 26 Jan 2026 19:07:50 GMT
+<p align="center">
+  Building things • Learning every day • Automating boring stuff
+</p>
 
-## 🧠 Top Languages
+<hr/>
 
-- TypeScript
-- C++
-- CMake
-- Dart
-- JavaScript
+## 📌 Quick Stats
 
-## 📊 GitHub Stats
- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Naveenpanaganti&show_icons=true&theme=tokyonight)
- <!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Naveenpanaganti&theme=tokyonight)(SHOULD WORK ON THIS)  -->
- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Naveenpanaganti&layout=compact&theme=tokyonight)
+- 👤 **Username:** {{USERNAME}}
+- 📦 **Public Repositories:** {{REPOS}}
+- ⭐ **Total Stars:** {{STARS}}
+- 👥 **Followers:** {{FOLLOWERS}}
+- 🕒 **Last Updated:** {{UPDATED}}
+
+## 📊 GitHub Overview
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Naveenpanaganti&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naveenpanaganti&layout=compact&theme=tokyonight" />
+</p>
+
+## 🧠 Top Languages (by code)
+
+{{TOP_LANGUAGES}}
 
 
----
-_This profile updates automatically using GitHub Actions_
+<hr/>
+<p align="center">
+  ⚙️ This profile README updates automatically using GitHub Actions
+</p>
 
 <!--
 **Naveenpanaganti/Naveenpanaganti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
