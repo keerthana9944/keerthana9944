@@ -7,7 +7,11 @@
 
 ## 🧠 Top Languages
 
-{{TOP_LANGUAGES}}
+- TypeScript
+- C++
+- CMake
+- Dart
+- JavaScript
 
 
 ---
