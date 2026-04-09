@@ -1,6 +1,6 @@
 const fs = require("fs");
 
-const USERNAME = "Dinesh8999";
+const USERNAME = "dinesh8999";
 
 async function run() {
   // 1. Fetch profile
