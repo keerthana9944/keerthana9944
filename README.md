@@ -135,6 +135,17 @@ https://github.com/keerthana9944/ayira
 </p>
 
 ---
+## 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Naveenpanaganti/Naveenpanaganti/output/github-contribution-grid-snake.svg" />
+</p>
+
+
+<hr/>
+<p align="center">
+  ⚙️ This profile README updates automatically using GitHub Actions
+</p>
 
 # 📈 Contribution Graph
 
