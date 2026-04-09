@@ -1,72 +1,72 @@
-<h1 align="center">Hi 👋, I'm Gembali Dinesh</h1>
+<h1 align="center">Hi 👋, I'm Nukabatni Herald Keerthana</h1>
 <h3 align="center">Full Stack Developer | Problem Solver | Open Source Learner</h3>
 
 <p align="center">
-Building real-world web applications and exploring modern technologies.
+Building impactful web applications and continuously learning modern technologies.
 </p>
 
 ---
 
-## 🚀 About Me
+## 👩‍💻 About Me
 
-I'm a **Full Stack Developer passionate about building real-world web applications.**  
-I enjoy solving problems with code, exploring new technologies, and contributing to impactful software projects.
+I'm a **Full Stack Developer** passionate about building real-world web applications.  
+I enjoy solving problems with code, exploring new technologies, and contributing to meaningful software projects.
 
-Currently focused on **Full Stack Development and Data Structures & Algorithms.**
-
-📍 Location: Makkuva, India  
-🏢 Organization: Kalvium  
-💻 Role: Full Stack Developer
+🎓 Currently learning and building at **Kalvium**  
+🚀 Focused on **Full Stack Development & Data Structures**  
+🌍 Based in **Hyderabad, India**
 
 ---
 
-## 🧑‍💻 What I'm Currently Working On
+## 🚀 Current Work
 
-🔹 **Employee Management System**
+🔨 Currently building:
 
-A web-based HR dashboard that helps organizations manage employee data such as:
+**Local Food Explorer**
 
-• Personal details  
-• Job information  
-• Salaries  
-• Departments  
+An application designed for **tourists and food lovers** to:
 
-The goal is to make employee management **easy, secure, and interactive**.
+• Discover authentic local foods  
+• Explore popular regional dishes  
+• Find recommended restaurants  
+
+Goal: Make discovering local cuisine easier for travelers.
 
 ---
 
 ## 🌱 Currently Learning
 
-• Advanced **Full Stack Web Development**  
-• **Data Structures & Algorithms**  
-• Exploring **DevOps workflows**  
+- Full Stack Web Development
+- Advanced React Development
+- Backend Architecture with Node.js
+- Data Structures & Algorithms
 
 ---
 
 ## 🤝 Open Source Interests
 
-I’m currently exploring open source and preparing to contribute to beginner-friendly repositories.
-
-Interested areas:
+I’m currently preparing to contribute to open source projects related to:
 
 • Frontend development  
 • Developer tools  
-• Open source educational platforms  
-• AI-based applications  
+• Educational platforms  
+• AI-powered applications  
+
+Always open to collaborating on **beginner-friendly open source projects**.
 
 ---
 
-# 🛠️ Tech Stack
+# 🛠 Tech Stack
 
-## 💻 Programming Languages
+### 💻 Programming Languages
 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
 
-## ⚙️ Frameworks & Libraries
+### ⚙️ Frameworks & Libraries
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -74,36 +74,53 @@ Interested areas:
 
 ---
 
-## 🛠 Tools & Platforms
+### 🧰 Tools & Platforms
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VSCode](https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge&logo=visual-studio-code)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
 
 ---
 
-# ⭐ Featured Projects
+# 🌟 Featured Projects
 
-## 🔐 LocalTrustId
+## 🍽 Local Food Explorer
 
-Designed and implemented backend services for a **digital identity verification platform**, focusing on data handling, API workflows, and system reliability within a full-stack environment.
+An application designed for **tourists and food lovers** to explore authentic dishes from different locations.
 
-### Tech Used
+**Tech Stack**
 
-Node.js  
-Express.js  
-MongoDB  
-JavaScript  
-Git  
-GitHub  
-Bruno
+- React.js
+- Tailwind CSS
+- REST APIs
+- JavaScript
 
-🔗 Project Link  
-https://trust-x-gold.vercel.app/
+🔗 Repository  
+https://github.com/kalviumcommunity/squad_86_keerthana_Capstone_Local-Food-Explorer
+
+---
+
+## 🌐 AYIRA
+
+A web-based application focused on creating **clean UI and modern frontend experiences**.
+
+Features:
+
+• Responsive UI  
+• Clean component architecture  
+• Improved frontend user experience
+
+**Tech Stack**
+
+- React.js
+- JavaScript
+- CSS
+- SQLite
+
+🔗 Repository  
+https://github.com/keerthana9944/ayira
 
 ---
 
@@ -111,53 +128,48 @@ https://trust-x-gold.vercel.app/
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=dinesh8999&show_icons=true&theme=tokyonight" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=keerthana9944&show_icons=true&theme=tokyonight"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinesh8999&layout=compact&theme=tokyonight" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keerthana9944&layout=compact&theme=tokyonight"/>
 
 </p>
 
 ---
-## 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Naveenpanaganti/Naveenpanaganti/output/github-contribution-grid-snake.svg" />
-</p>
-
-
-<hr/>
-<p align="center">
-  ⚙️ This profile README updates automatically using GitHub Actions
-</p>
 
 # 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dinesh8999&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=keerthana9944&theme=tokyo-night"/>
 </p>
 
 ---
 
-# 📫 Connect With Me
+# 📫 Contact Me
 
 🌐 Portfolio  
-https://www.manico.tech/
+https://www.kirthana.tech/
 
 💼 LinkedIn  
-https://www.linkedin.com/in/gembalidinesh/
+https://www.linkedin.com/in/herald-keerthana-nukabatni/
 
 📧 Email  
-gembalidinesh7@gmail.com
+herald.keerthana@gmail.com
 
 ---
 
 # ⚡ Fun Facts
 
-• I enjoy solving **DSA problems and coding challenges**  
-• I love building **real-world applications that solve problems**  
-• Curious about **DevOps, AI, and scalable systems**  
-• Always learning something new in tech 🚀
+✨ I enjoy building projects that solve **real-world problems**  
+🍜 Interested in exploring **local cultures through food**  
+🔍 Curious about **AI, Cybersecurity, and IoT**  
+🚀 Passionate about becoming a **high-impact Full Stack Developer**
 
 ---
 
-⭐ *If you like my work, consider giving a star to my repositories!*
+# ⭐ Let's Connect & Build
+
+If you like my work or want to collaborate on a project, feel free to connect!
+
+⭐ Star repositories you find interesting  
+🤝 Open for collaboration  
+💡 Always learning something new
