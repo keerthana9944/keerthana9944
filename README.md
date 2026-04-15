@@ -136,7 +136,7 @@ https://github.com/kalviumcommunity/squad_86_keerthana_Capstone_Local-Food-Explo
 # 📫 Contact Me
 
 🌐 Portfolio  
-https://www.kirthana.tech/
+https://nhk-portfolio-amber.vercel.app/
 
 💼 LinkedIn  
 https://www.linkedin.com/in/herald-keerthana-nukabatni/
