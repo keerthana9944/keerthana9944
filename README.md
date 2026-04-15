@@ -82,23 +82,6 @@ Always open to collaborating on **beginner-friendly open source projects**.
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
 
----
-
-# 🌟 Featured Projects
-
-## 🍽 Local Food Explorer
-
-An application designed for **tourists and food lovers** to explore authentic dishes from different locations.
-
-**Tech Stack**
-
-- React.js
-- Tailwind CSS
-- REST APIs
-- JavaScript
-
-🔗 Repository  
-https://github.com/kalviumcommunity/squad_86_keerthana_Capstone_Local-Food-Explorer
 
 ---
 
