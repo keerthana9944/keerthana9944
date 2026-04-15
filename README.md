@@ -102,28 +102,6 @@ https://github.com/kalviumcommunity/squad_86_keerthana_Capstone_Local-Food-Explo
 
 ---
 
-## 🌐 AYIRA
-
-A web-based application focused on creating **clean UI and modern frontend experiences**.
-
-Features:
-
-• Responsive UI  
-• Clean component architecture  
-• Improved frontend user experience
-
-**Tech Stack**
-
-- React.js
-- JavaScript
-- CSS
-- SQLite
-
-🔗 Repository  
-https://github.com/keerthana9944/ayira
-
----
-
 # 📊 GitHub Stats
 
 <p align="center">
