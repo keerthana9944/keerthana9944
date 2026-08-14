@@ -96,12 +96,25 @@ Always open to collaborating on **beginner-friendly open source projects**.
 </p>
 
 ---
+
 ## 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Naveenpanaganti/Naveenpanaganti/output/github-contribution-grid-snake.svg" />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/keerthana9944/keerthana9944/output/github-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/keerthana9944/keerthana9944/output/github-snake.svg"
+    />
+    <img
+      alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/keerthana9944/keerthana9944/output/github-snake.svg"
+    />
+  </picture>
 </p>
-
 
 <hr/>
 <p align="center">
