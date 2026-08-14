@@ -97,7 +97,7 @@ Always open to collaborating on **beginner-friendly open source projects**.
 
 ---
 
-## 🐍 Contribution Graph
+## 🐍 Contribution Snake
 
 <p align="center">
   <picture>
@@ -121,7 +121,7 @@ Always open to collaborating on **beginner-friendly open source projects**.
   ⚙️ This profile README updates automatically using GitHub Actions
 </p>
 
-# 📈 Contribution Graph
+## 📈 GitHub Activity
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=keerthana9944&theme=tokyo-night"/>
